@@ -112,8 +112,9 @@ Interpretação:
 Perfil associado a investigação clínica mais aprofundada ou acompanhamento ambulatorial.
 
 ---
-### Dashboard
+## Dashboard
 
+![Dashboard](https://raw.githubusercontent.com/RenanMoliveir/clusteriza-o-de-Exames-Laboratoriais/main/image-2.png)
 ---
 
 ## Insights
