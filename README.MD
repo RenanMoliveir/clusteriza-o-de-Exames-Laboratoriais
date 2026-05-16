@@ -113,7 +113,6 @@ Perfil associado a investigação clínica mais aprofundada ou acompanhamento am
 
 ---
 ### Dashboard
-![alt text](image-2.png)
 
 ---
 
